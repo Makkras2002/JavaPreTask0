@@ -1,0 +1,46 @@
+2021-09-28 11:49:43 [main] [main] [23] INFO  main.Main - 1. Extract numbers from file.
+2021-09-28 11:49:43 [main] [main] [24] INFO  main.Main - 2. Count sum.
+2021-09-28 11:49:43 [main] [main] [25] INFO  main.Main - 3. Count diff.
+2021-09-28 11:49:43 [main] [main] [26] INFO  main.Main - 4.Count multi.
+2021-09-28 11:49:43 [main] [main] [27] INFO  main.Main - 5.Count div.
+2021-09-28 11:49:43 [main] [main] [28] INFO  main.Main - 6.Write number in the file.
+2021-09-28 11:49:43 [main] [main] [29] INFO  main.Main - 7.Exit.
+2021-09-28 11:49:46 [main] [main] [23] INFO  main.Main - 1. Extract numbers from file.
+2021-09-28 11:49:46 [main] [main] [24] INFO  main.Main - 2. Count sum.
+2021-09-28 11:49:46 [main] [main] [25] INFO  main.Main - 3. Count diff.
+2021-09-28 11:49:46 [main] [main] [26] INFO  main.Main - 4.Count multi.
+2021-09-28 11:49:46 [main] [main] [27] INFO  main.Main - 5.Count div.
+2021-09-28 11:49:46 [main] [main] [28] INFO  main.Main - 6.Write number in the file.
+2021-09-28 11:49:46 [main] [main] [29] INFO  main.Main - 7.Exit.
+2021-09-28 11:49:47 [main] [main] [48] INFO  main.Main - 21.0
+2021-09-28 11:49:47 [main] [main] [23] INFO  main.Main - 1. Extract numbers from file.
+2021-09-28 11:49:47 [main] [main] [24] INFO  main.Main - 2. Count sum.
+2021-09-28 11:49:47 [main] [main] [25] INFO  main.Main - 3. Count diff.
+2021-09-28 11:49:47 [main] [main] [26] INFO  main.Main - 4.Count multi.
+2021-09-28 11:49:47 [main] [main] [27] INFO  main.Main - 5.Count div.
+2021-09-28 11:49:47 [main] [main] [28] INFO  main.Main - 6.Write number in the file.
+2021-09-28 11:49:47 [main] [main] [29] INFO  main.Main - 7.Exit.
+2021-09-28 11:49:48 [main] [main] [54] INFO  main.Main - -4.2000003
+2021-09-28 11:49:48 [main] [main] [23] INFO  main.Main - 1. Extract numbers from file.
+2021-09-28 11:49:48 [main] [main] [24] INFO  main.Main - 2. Count sum.
+2021-09-28 11:49:48 [main] [main] [25] INFO  main.Main - 3. Count diff.
+2021-09-28 11:49:48 [main] [main] [26] INFO  main.Main - 4.Count multi.
+2021-09-28 11:49:48 [main] [main] [27] INFO  main.Main - 5.Count div.
+2021-09-28 11:49:48 [main] [main] [28] INFO  main.Main - 6.Write number in the file.
+2021-09-28 11:49:48 [main] [main] [29] INFO  main.Main - 7.Exit.
+2021-09-28 11:49:51 [main] [main] [60] INFO  main.Main - 0.0
+2021-09-28 11:49:51 [main] [main] [23] INFO  main.Main - 1. Extract numbers from file.
+2021-09-28 11:49:51 [main] [main] [24] INFO  main.Main - 2. Count sum.
+2021-09-28 11:49:51 [main] [main] [25] INFO  main.Main - 3. Count diff.
+2021-09-28 11:49:51 [main] [main] [26] INFO  main.Main - 4.Count multi.
+2021-09-28 11:49:51 [main] [main] [27] INFO  main.Main - 5.Count div.
+2021-09-28 11:49:51 [main] [main] [28] INFO  main.Main - 6.Write number in the file.
+2021-09-28 11:49:51 [main] [main] [29] INFO  main.Main - 7.Exit.
+2021-09-28 11:49:53 [main] [main] [67] INFO  main.Main - Infinity
+2021-09-28 11:49:53 [main] [main] [23] INFO  main.Main - 1. Extract numbers from file.
+2021-09-28 11:49:53 [main] [main] [24] INFO  main.Main - 2. Count sum.
+2021-09-28 11:49:53 [main] [main] [25] INFO  main.Main - 3. Count diff.
+2021-09-28 11:49:53 [main] [main] [26] INFO  main.Main - 4.Count multi.
+2021-09-28 11:49:53 [main] [main] [27] INFO  main.Main - 5.Count div.
+2021-09-28 11:49:53 [main] [main] [28] INFO  main.Main - 6.Write number in the file.
+2021-09-28 11:49:53 [main] [main] [29] INFO  main.Main - 7.Exit.
