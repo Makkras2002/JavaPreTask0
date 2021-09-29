@@ -23,10 +23,10 @@ public class Main {
             logger.info("1. Extract numbers from file.");
             logger.info("2. Count sum.");
             logger.info("3. Count diff.");
-            logger.info("4.Count multi.");
-            logger.info("5.Count div.");
-            logger.info("6.Write number in the file.");
-            logger.info("7.Exit.");
+            logger.info("4. Count multi.");
+            logger.info("5. Count div.");
+            logger.info("6. Write number in the file.");
+            logger.info("7. Exit.");
             String choice = scanner.nextLine();
             switch (choice){
                 case "1":{

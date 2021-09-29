@@ -16,6 +16,7 @@ public class FileInputer {
             FileWriter fileWriter = new FileWriter(FILEPATH,true);
             bufferedWriter = new BufferedWriter(fileWriter);
             bufferedWriter.write(number + "\n");
+            bufferedWriter.flush();
         } catch (IOException e) {
             logger.error(e.getMessage());
         } finally {
